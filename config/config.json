@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1aa4fF9740d15a2f950622754f429F1E22A300bD",
+  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "NETWORK": {
+    "NAME": "ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Bad Dogs",
+  "SYMBOL": "Bad Dogs",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Bad-Dogs",
+  "SHOW_BACKGROUND": true
+}
